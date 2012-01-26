@@ -1,6 +1,15 @@
-started 9:30
-django is 4mb
+Thoughts
+django is 4mb.
+It took 2hours to get something going + another 2hours to get chunked output, clickable urls and code reuse
+I think I prefer sinatra style web frameworks.
+I am wondering how safe clean data really is, any problems means shell command injection.
 
+TODO
+bar graph
+crawl time
+db
+
+Problem Description
 Language: Python 
 App Category: Networking/Web Application 
 DB: None (Use any DB in Complex part) 

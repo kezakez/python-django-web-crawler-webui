@@ -3,6 +3,7 @@ django is 4mb.
 It took 2hours to get something going + another 2hours to get chunked output, clickable urls and code reuse
 I think I prefer sinatra style web frameworks.
 I am wondering how safe clean data really is, any problems means shell command injection.
+getting django working with google app engine is painful.
 
 TODO
 bar graph
